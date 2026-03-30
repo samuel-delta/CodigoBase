@@ -1,0 +1,20 @@
+{
+  "name": "codigobase",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Samuel Nunes",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^24.0.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.8",
+    "allure-commandline": "^2.38.1",
+    "allure-cypress": "^3.6.0",
+    "cypress": "^15.2.0",
+    "cypress-on-fix": "^1.1.0"
+  }
+}
