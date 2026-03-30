@@ -29,11 +29,6 @@ Como iniciar um novo projeto de automação:
 
 ## 📦 Instalação
 
-Clone o repositório:
-
-git clone https://github.com/samuel-delta/CodigoBase.git
-cd CodigoBase
-
 Instale as dependências:
 
 npm install
