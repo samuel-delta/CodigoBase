@@ -4,6 +4,19 @@ Base de automação de testes E2E utilizando Cypress, Cucumber (BDD) e Allure Re
 
 ---
 
+Como iniciar um novo projeto de automação:
+
+1. Acessar o template CodigoBase
+2. Clicar em "Use this template"
+3. Criar novo repositório
+4. Clonar o novo repositório
+5. Rodar npm install
+6. Executar cypress open
+
+
+
+---
+
 ## 📦 Tecnologias utilizadas
 
 - 🧪 Cypress 15
